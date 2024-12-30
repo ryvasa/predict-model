@@ -5,4 +5,4 @@ coverage.*
 *.log
 **/tmp
 myenv
-__*
+__pycache__
