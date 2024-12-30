@@ -1,0 +1,8 @@
+.env
+coverage.*
+*.jpg
+*.xlsx
+*.log
+**/tmp
+myenv
+__*
